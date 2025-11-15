@@ -1,0 +1,5 @@
+C:/Users/91603/Desktop/test/build/CMakeFiles/keygen.dir
+C:/Users/91603/Desktop/test/build/CMakeFiles/client.dir
+C:/Users/91603/Desktop/test/build/CMakeFiles/server.dir
+C:/Users/91603/Desktop/test/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/91603/Desktop/test/build/CMakeFiles/ZERO_CHECK.dir

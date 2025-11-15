@@ -46,7 +46,6 @@ int main() {
     }
 
     cout << "\nSEAL context created successfully." << endl;
-    cout << "Security level: " << context.security_level() << " bits" << endl;
 
     // Generate keys
     auto start = chrono::high_resolution_clock::now();
